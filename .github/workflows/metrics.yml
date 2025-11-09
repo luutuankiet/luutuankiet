@@ -26,7 +26,7 @@ jobs:
           user: luutuankiet
           template: classic
           config_timezone: Asia/Ho_Chi_Minh
-          config_display: large
+          config_display: columns
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           plugin_languages_categories: markup, programming
