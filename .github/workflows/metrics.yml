@@ -45,6 +45,3 @@ jobs:
           plugin_notable_self: yes
           repositories_batch: 5
           plugin_notable_indepth: yes
-          plugin_stars: yes
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
