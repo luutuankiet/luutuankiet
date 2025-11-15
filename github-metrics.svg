@@ -250,8 +250,8 @@
                         <span class="name">@joon-solutions</span>
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="16" height="16" class="gauge">
                             <circle class="gauge-base" r="12.5" cx="15" cy="15"/>
-                            <circle class="gauge-arc" transform="rotate(-90 15 15)" r="12.5" cx="15" cy="15" stroke-dasharray="100.45383069164826 329"/>
-                            <text x="15" y="15" dominant-baseline="central">106</text>
+                            <circle class="gauge-arc" transform="rotate(-90 15 15)" r="12.5" cx="15" cy="15" stroke-dasharray="108.70718944573896 329"/>
+                            <text x="15" y="15" dominant-baseline="central">117</text>
                         </svg>
                         <svg class="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
@@ -1335,7 +1335,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pavelanni/learn-oauth-python</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🐍 A comprehensive Python implementation of OAuth 2.1 for educational purposes. Complete with FastAPI servers, PKCE security, step-by-step flow visualization, and extensive documentation.</div>
@@ -1388,7 +1388,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mcpjungle/MCPJungle</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Self-hosted MCP Gateway and Registry for AI agents</div>
@@ -1441,7 +1441,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sigbit/mcp-auth-proxy</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">MCP Auth Proxy is a secure OAuth 2.1 authentication proxy for Model Context Protocol (MCP) servers</div>
@@ -1494,7 +1494,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>microsoft/mcp-gateway</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">MCP Gateway is a reverse proxy and management layer for MCP servers, enabling scalable, session-aware stateful routing and lifecycle management of MCP servers in Kubernetes environments.</div>
@@ -1544,7 +1544,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Nov 2025, 03:14:52 (timezone Asia/Ho_Chi_Minh) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Nov 2025, 04:12:14 (timezone Asia/Ho_Chi_Minh) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
