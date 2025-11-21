@@ -1312,7 +1312,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sqlparser/sqlflow_public</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Document, sample code and other materials for SQLFlow</div>
@@ -1418,7 +1418,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>svetamorag/ai_translation_for_large_context</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A translation pipeline leveraging Google Cloud infrastrucutre and Agent Development Kit (ADK) to handle large-scale content translation with context preservation and multi-agent validation.</div>
@@ -1509,7 +1509,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Nov 2025, 19:29:32 (timezone Asia/Ho_Chi_Minh) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Nov 2025, 20:25:02 (timezone Asia/Ho_Chi_Minh) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
