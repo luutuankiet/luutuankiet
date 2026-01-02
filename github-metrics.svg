@@ -1333,7 +1333,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>brettguenther/conversational-analytics-google-chat</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Example Google Cloud Function for a Google Chat App that integrates with Looker's Conversational Analytics API</div>
@@ -1530,7 +1530,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Jan 2026, 15:22:26 (timezone Asia/Ho_Chi_Minh) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Jan 2026, 16:19:41 (timezone Asia/Ho_Chi_Minh) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
