@@ -1386,7 +1386,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tableau/tableau-mcp</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Official Tableau MCP server, providing a suite of tools that make it easier for developers to build and configure AI applications that integrate with Tableau Cloud and Server.</div>
@@ -1595,7 +1595,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Feb 2026, 12:55:06 (timezone Asia/Ho_Chi_Minh) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Feb 2026, 13:53:30 (timezone Asia/Ho_Chi_Minh) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
