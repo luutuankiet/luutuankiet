@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2456 Commits
+                            2458 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -81,7 +81,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                             </svg>
-                            187 Pull requests opened
+                            188 Pull requests opened
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -159,7 +159,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                     </svg>
-                                    77 Releases
+                                    78 Releases
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,11 +219,11 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="389.5642711779934" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="389.5642711779934" y="0" width="27.03207675162322" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="416.5963479296166" y="0" width="25.362313623966884" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="441.9586615535835" y="0" width="17.703819583846716" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.66248113743023" y="0" width="0.3375188625697396" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="389.86681296747105" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="389.86681296747105" y="0" width="26.915966178047714" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="416.78277914551876" y="0" width="25.253375165070867" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="442.0361543105896" y="0" width="17.627776567794154" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="459.6639308783838" y="0" width="0.33606912161621955" height="8" fill="#384d54"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1341,7 +1341,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>czlonkowski/n8n-mcp</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you</div>
@@ -1394,7 +1394,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lkrdev/looker-oauth-gemini-enterprise</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Looker OAuth ADK Agent setup for Gemini Enterprise. Showcases MCP and CA API examples</div>
@@ -1441,7 +1441,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lkrdev/lookml_skills</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Skills for your LookML Agents</div>
@@ -1544,7 +1544,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Apr 2026, 11:49:27 (timezone Asia/Ho_Chi_Minh) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 Apr 2026, 13:51:06 (timezone Asia/Ho_Chi_Minh) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
