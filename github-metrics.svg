@@ -1353,7 +1353,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bobmatnyc/mcp-skillset</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Dynamic RAG-powered skills service for code assistants via MCP - Vector + Knowledge Graph hybrid search for intelligent skill discovery</div>
@@ -1406,7 +1406,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zouyingcao/agentskills-mcp</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">AgentSkills MCP: Bringing Anthropic's Agent Skills to Any MCP-compatible Agent</div>
@@ -1459,7 +1459,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Siddhant-K-code/distill</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Reliable LLM outputs start with clean context. Deterministic deduplication, compression, and caching for RAG pipelines.</div>
@@ -1562,7 +1562,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Apr 2026, 03:30:18 (timezone Asia/Ho_Chi_Minh) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Apr 2026, 04:28:46 (timezone Asia/Ho_Chi_Minh) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
