@@ -1360,7 +1360,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>albertnsql/lookml-auditor-web</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">LookML Auditor is a static analysis tool for Looker projects, built with React and FastAPI. It runs locally in your browser no code leaves your machine. It catches broken field references, duplicate dimension/measure definitions, and join integrity issues, and surfaces them in a single dashboard with severity scores and a CSV export.</div>
@@ -1563,7 +1563,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 May 2026, 17:57:57 (timezone Asia/Ho_Chi_Minh) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 May 2026, 18:51:04 (timezone Asia/Ho_Chi_Minh) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
