@@ -1440,7 +1440,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dirien/pulumi-platform-okf-bundle</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An Open Knowledge Format (OKF v0.1) bundle for a Pulumi platform team — runbooks, decision records, and service pages as agent-readable knowledge. Companion to the 'Knowledge as Code' blog post.</div>
@@ -1487,7 +1487,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vercel/next.js</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The React Framework</div>
@@ -1643,7 +1643,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Jul 2026, 04:57:57 (timezone Asia/Ho_Chi_Minh) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Jul 2026, 05:57:22 (timezone Asia/Ho_Chi_Minh) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
