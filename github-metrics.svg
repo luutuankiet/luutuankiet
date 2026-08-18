@@ -1400,7 +1400,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>deepseek-ai/deepseek-harness</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">DeepSeek Harness: Everything is a Plugin.</div>
@@ -1453,7 +1453,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>unclecode/toolshrink</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Cut large agent tool output by what it means, not by where it was cut. 9 content-aware reducers + DeepSeek Harness plugin.</div>
@@ -1597,7 +1597,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Aug 2026, 04:17:23 (timezone Asia/Ho_Chi_Minh) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Aug 2026, 05:15:54 (timezone Asia/Ho_Chi_Minh) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
